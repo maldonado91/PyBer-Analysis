@@ -1,4 +1,7 @@
 # PyBer-Analysis
+Fares in rural areas are too expensive and cause low rides
+Not enough drivers available in rural areas
+The forth week of feburary has a jump in fares across all city types
 
 ### 1. Overview of School District Analysis:
 #### We previously summarized school and students data but later discovered we might have a case of academic dishonestly. We are going to replace some of the data with NaN values and re run the analysis. In this particular case we are focused on 9th grade data from Thomas High School and that information will be replaced with NaN.
