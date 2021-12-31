@@ -14,7 +14,7 @@
     
 * How is the school summary affected?
    * There's also a slight drop in averages and passing percentages in the school summary but as you can see below, the difference is minimal. The average reading score is actually a bit higher after converting 9th grades scores to NaN. See below a before and after view:
-    ![Before converting Nan's THS](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/ths_pre.PNG)
+    ![5](https://github.com/maldonado91/PyBer-Analysis/blob/main/analysis/Fig5.png)
     ![After converting Nan's THS](https://github.com/maldonado91/School-District-Analysis/blob/main/Resources/ths_post.PNG)
 
 * How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
