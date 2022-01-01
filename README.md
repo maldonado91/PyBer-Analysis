@@ -7,6 +7,7 @@
 ![5](https://github.com/maldonado91/PyBer-Analysis/blob/main/analysis/Fig5.png)
 ![6](https://github.com/maldonado91/PyBer-Analysis/blob/main/analysis/Fig6.png)
 ![7](https://github.com/maldonado91/PyBer-Analysis/blob/main/analysis/Fig7.png)
+![Summary](https://github.com/maldonado91/PyBer-Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
       
  ### 3 Summary:
